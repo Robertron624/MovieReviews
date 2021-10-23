@@ -5,12 +5,13 @@ a una lista de reviews de peliculas.
 
 Requisitos:
 
-  Tener instalado npm e instalar los paquetes en la carpeta de cliente: 
-      - "axios"
-      - "react"
-      - "react-dom"
-      - "react-scripts"
-      - "web-vitals"
+  Tener instalado npm e instalar los paquetes en la carpeta de cliente:
+  
+      -"axios"
+      -"react"
+      -"react-dom"
+      -"react-scripts"
+      -"web-vitals"
       
  Para correr el cliente en un servidor, ejecutar el comando "npm start" en la terminal desde la carpeta cliente
  
